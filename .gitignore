@@ -1,0 +1,11 @@
+# Simulation outputs
+*.vcd
+*.out
+*.log
+
+# GTKWave and build files
+*.gtkw
+*.fst
+
+# System files
+.DS_Store
