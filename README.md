@@ -110,9 +110,6 @@ Beyond its educational value, the design forms a foundation for further explorat
 By publishing the project on GitHub with detailed documentation, simulation scripts, and visual assets, it contributes to open-source learning resources in **VLSI system design** and **computer architecture education**.
 
 ---
-<img width="822" height="525" alt="image" src="https://github.com/user-attachments/assets/ea33e075-34eb-47dd-ae74-2eead2945190" />
-
----
 
 ### 🧩 Keywords
 `RISC-V` · `Verilog HDL` · `Pipeline Processor` · `Hazard Detection` · `Forwarding Unit` · `VLSI Design` · `Computer Architecture`
